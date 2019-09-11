@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/users-rolodex-app/static/css/main.5f6f6a6d.chunk.css",
+    "main.js": "/users-rolodex-app/static/js/main.f6fcfd3a.chunk.js",
+    "main.js.map": "/users-rolodex-app/static/js/main.f6fcfd3a.chunk.js.map",
+    "runtime~main.js": "/users-rolodex-app/static/js/runtime~main.fd5da9cc.js",
+    "runtime~main.js.map": "/users-rolodex-app/static/js/runtime~main.fd5da9cc.js.map",
+    "static/js/2.e6ff8d7d.chunk.js": "/users-rolodex-app/static/js/2.e6ff8d7d.chunk.js",
+    "static/js/2.e6ff8d7d.chunk.js.map": "/users-rolodex-app/static/js/2.e6ff8d7d.chunk.js.map",
+    "index.html": "/users-rolodex-app/index.html",
+    "precache-manifest.799eae9f7e879d023c666f0e30ca4080.js": "/users-rolodex-app/precache-manifest.799eae9f7e879d023c666f0e30ca4080.js",
+    "service-worker.js": "/users-rolodex-app/service-worker.js",
+    "static/css/main.5f6f6a6d.chunk.css.map": "/users-rolodex-app/static/css/main.5f6f6a6d.chunk.css.map"
+  }
+}
