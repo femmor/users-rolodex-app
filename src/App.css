@@ -7,6 +7,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 60px;
+  color: #6e2b65;
+  -webkit-box-shadow: 6px 6px 23px -10px rgba(79, 78, 79, 0.62);
+  -moz-box-shadow: 6px 6px 23px -10px rgba(79, 78, 79, 0.62);
+  box-shadow: 6px 6px 23px -10px rgba(79, 78, 79, 0.62);
+}
 
 .App-header {
   background-color: #282c34;

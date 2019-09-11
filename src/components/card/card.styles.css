@@ -1,0 +1,30 @@
+.card-container {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  background-color: #6e2b65;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  text-align: center;
+  -webkit-box-shadow: 6px 6px 23px -10px rgba(79, 78, 79, 0.62);
+  -moz-box-shadow: 6px 6px 23px -10px rgba(79, 78, 79, 0.62);
+  box-shadow: 6px 6px 23px -10px rgba(79, 78, 79, 0.62);
+}
+
+.card-container p {
+  color: #f3c031;
+}
+
+.card-container img {
+  margin: 0 auto;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
