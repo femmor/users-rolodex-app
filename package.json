@@ -1,8 +1,8 @@
 {
-  "name": "monster-rolodex",
+  "name": "users-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://femmor.github.io/users-rolodex",
+  "homepage": "https://femmor.github.io/users-rolodex-app",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
